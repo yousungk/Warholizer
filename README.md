@@ -30,6 +30,12 @@ After creating clusters of identical, contiguous pixels, we assign a unique ID t
 - Abstract Factory
 - Singleton
 
+![MVC drawio](https://github.com/yousungk/Warholizer/assets/139073954/d01b89f7-30f5-44ff-b03d-fbe0945f7e3d)
+
+![Model drawio](https://github.com/yousungk/Warholizer/assets/139073954/ae22b46f-10b8-49c1-ad4c-6c335b1b3ef6)
+
+![View drawio](https://github.com/yousungk/Warholizer/assets/139073954/310506ee-9483-44b5-9602-fb1f291fc44f)
+
 ## Example 
 Original Image:
 
